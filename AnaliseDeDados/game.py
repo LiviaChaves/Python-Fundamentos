@@ -1,8 +1,8 @@
 # Game Ping-Pong
 
 # Imports
-from tkinter import *
-import random
+from tkinter import * #biblioteca que permite desenvolver interfaces gráficas.
+import random # Gerador aleatorio (numeros)
 import time
 
 # Variável recebendo o valor digitado pelo usuário
